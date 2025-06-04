@@ -1,4 +1,4 @@
-package nickolasaranha.maratonajava.introducao;
+package nickolasaranha.introducao;
 
 public class Aula01OlaMundo {
     public static void main(String[] args) {

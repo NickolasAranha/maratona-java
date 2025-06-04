@@ -1,4 +1,4 @@
-package nickolasaranha.maratonajava.introducao;
+package nickolasaranha.introducao;
 import java.util.Scanner;
 public class Aula02TiposPrimitivos {
     public static void main(String[] args) {

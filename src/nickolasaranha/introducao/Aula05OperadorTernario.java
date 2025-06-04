@@ -1,4 +1,4 @@
-package nickolasaranha.maratonajava.introducao;
+package nickolasaranha.introducao;
 
 public class Aula05OperadorTernario {
     public static void main(String[] args) {

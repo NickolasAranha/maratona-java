@@ -1,4 +1,4 @@
-package nickolasaranha.maratonajava.introducao;
+package nickolasaranha.introducao;
 
 public class Aula03TiposPrimitivosExercicio {
     public static void main(String[] args) {
